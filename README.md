@@ -33,4 +33,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema (iss
 
 ## Licença
 
-Este projeto é licenciado sob a [Sua Licença Aqui].
+Este projeto é licenciado sob a MTI License
